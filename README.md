@@ -13,4 +13,5 @@ twiter   :https://twitter.com/metaverse_game
 
 discord  :https://discord.gg/7EvwCAnXz8
 
+# contract address: 0x74E9A4B0019Ce8Ae65a8dD457F67fD9bf50D940B
 
