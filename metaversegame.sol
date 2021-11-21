@@ -1,3 +1,9 @@
+# metaverse game token
+We intend to acquaint all the humans with the world ahead, which is Metaverse.
+instgram https://instagram.com/metaversegame_token
+telegram https://t.me/metaversegm
+twiter https://twitter.com/metaverse_game
+
 pragma solidity 0.5.16;
 
 interface IBEP20 {
